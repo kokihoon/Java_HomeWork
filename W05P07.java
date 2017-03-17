@@ -27,6 +27,7 @@ class Movie07 {
 		return title +"," +directedBy+"," +running +"," + releaseDate;
 	}
 }
+
 class Date07 {
 	int year;
 	int month;
